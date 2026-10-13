@@ -1,0 +1,1 @@
+{"format":"vvtab-component","api":2,"id":"focus-timer","version":"1.2.0","name":"专注计时","sizes":["2x1","2x2"],"permissions":[],"skins":[{"id":"mint","name":"暖光石墨","styles":{"2x1":"#root{display:flex}","2x2":"#root{display:flex}"}},{"id":"paper","name":"雾紫瓷白","styles":{"2x1":"#root{display:flex}","2x2":"#root{display:flex}"}}],"code":""}
