@@ -1,1 +1,1 @@
-{"version":1,"components":[{"id":"focus-timer","name":"专注计时","description":"离线运行的 25 分钟专注计时器，支持两款皮肤。","version":"1.0.0","path":"packages/focus-timer/1.0.0.json","sha256":"732f6aeedfab83d47ad62547ce70f87fa27dbce9d2ce4de1a45df3301adc1d68"}]}
+{"version":1,"components":[{"id":"focus-timer","name":"专注计时","description":"离线运行的 25 分钟专注计时器，两款皮肤各有宽版与方版。","version":"1.1.0","path":"packages/focus-timer/1.1.0.json","sha256":"13076febf105b8927b8ed70a120779f47bba7dfbc8f737306a41d9f595780db2"}]}
