@@ -1,0 +1,3 @@
+packages/*.json -text
+packages/**/*.json -text
+catalog.json -text
